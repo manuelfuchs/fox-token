@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "remix": "npx remixd -s \"$(pwd)\"/src --remix-ide https://remix.ethereum.org"
+  },
+  "devDependencies": {
+    "@remix-project/remixd": "^0.4.0"
+  }
+}
